@@ -1,0 +1,42 @@
+body{
+    background-color:pink;
+}
+#container{
+    background-color:white;
+    widows: 1000px;
+    margin:0 auto;
+}
+header{
+    background-color:#EEEEEE;
+    color:brown;
+    border:4px brown dashed;
+    text-align:centre;
+    line-height:5sem;
+}
+header h1{
+    margin:0;
+}
+aside{
+    width:250px;
+    float:left;
+    padding-left:10px;
+}
+article{
+    width:700px;
+    float:right;
+}
+footer{
+    backgroung-color:#EEEEEE;
+    color:grey;
+    clear:both;
+    padding-left:10px
+}
+h2{
+    color:orange;
+}
+h3{
+    margin-top:5px;
+}
+h3,h4{
+    color:brown;
+}
